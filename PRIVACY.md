@@ -2,7 +2,7 @@
 
 Last Updated: 9/1/24
 
-Thank you for using **Switches**. This privacy policy explains how we handle any personal information you provide while using our app.
+Thank you for using **C-TOS**. This privacy policy explains how we handle any personal information you provide while using our app.
 
 ### 1. No Data Collection
 
